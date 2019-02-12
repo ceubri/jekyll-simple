@@ -13,8 +13,5 @@ description: 'Hello papa !
 
 '
 baseurl: "/jekyll-simple"
-markdown: kramdown
-kramdown:
-  input: GFM
 disqus_shortname: 
 excerpt_separator: "<!--description-->"
